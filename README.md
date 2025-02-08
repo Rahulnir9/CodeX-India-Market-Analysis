@@ -21,11 +21,14 @@ Incorporate natural ingredients like green tea extract and Guarana to align with
 Tailor pricing models for Tier 1 and Tier 2 markets.
 Implement A/B testing for packaging designs to enhance consumer appeal.
 Strengthen relationships with local supermarkets for broader product distribution.
+
+
 Achievements:
 
 Crafted an interactive Power BI dashboard to visualize complex datasets and uncover actionable insights.
 Delivered data-driven strategies that influenced marketing and product decisions.
 Enhanced business decisions by presenting critical metrics in an intuitive visual format.
+
 Outcomes:
 
 Achieved a 20% boost in targeted marketing efficiency.
