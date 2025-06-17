@@ -1,4 +1,4 @@
-# CodeX-India-Market-Analysis
+# INDIAN BEVERAGE MARKET ANALYSIS 
 Project Overview:
 Conducted in-depth analysis of 10,000 survey responses to uncover trends in consumer behavior, purchasing habits, and demographics, providing strategic insights to enhance CodeX India's market positioning and product offerings.
 
